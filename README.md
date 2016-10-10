@@ -1,4 +1,4 @@
-### ¿Cómo funciona el RecyclerViewe?
+### ¿Cómo funciona el RecyclerView?
 
 El widget RecyclerView es una de las novedades más importante que ha recibido Android en los últimos tiempos desde el punto de vista del desarrollador ya que permite reemplazar widgets fundamentales como ListView y GridView por “algo mejor” y más potente. En pocas palabras, es un contenedor de elementos en forma de lista al igual que la clase ListView. 
 
